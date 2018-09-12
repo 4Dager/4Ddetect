@@ -9,7 +9,7 @@
 
 You can download the code:
 ```
-git clone https://github.com/4Dager/4Ddetect.git`
+    git clone https://github.com/4Dager/4Ddetect.git
 ```
  
 Pre-trained model can be downloaded from:https://pan.baidu.com/s/1dFjtA57ZUg4a5HNT_VOSAA
@@ -21,7 +21,7 @@ Pre-trained model can be downloaded from:https://pan.baidu.com/s/1dFjtA57ZUg4a5H
 
 Open build\darknet\darknet.sln, set x64 and Release, then build with Microsoft Visual Studio 2015. Then open build\darknet\x64 and perform the following in cmd:
 ```
-4D_detect data\car.jpg
+    4D_detect data\car.jpg
 ```
 
 Then you can get the predictions of the data\car.jpg.
@@ -31,7 +31,7 @@ Then you can get the predictions of the data\car.jpg.
 
 Open the directory in the terminal, make the code and compile with the following step:
 ```
-make
-./4D_detect data/car.jpg
+    make
+    ./4D_detect data/car.jpg
 ```
 Then you can get the predictions of the data/car.jpg.
