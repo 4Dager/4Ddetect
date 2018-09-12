@@ -14,7 +14,7 @@ You can download the code:
  
 Pre-trained model can be downloaded from:https://pan.baidu.com/s/1dFjtA57ZUg4a5HNT_VOSAA
     
-# Compile
+# Usage
 
 
 - **When you compile the code in Windows**:
